@@ -3,6 +3,10 @@ a.txt
 master
 other
 
+function foo2(){
+    
+}
+
 
 
 function foo(){

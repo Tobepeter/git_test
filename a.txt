@@ -1,3 +1,9 @@
 a.txt
 1
 other
+
+
+
+function foo(){
+    
+}

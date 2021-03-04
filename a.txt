@@ -1,3 +1,10 @@
 a.txt
 1
 master
+other
+
+
+
+function foo(){
+    
+}

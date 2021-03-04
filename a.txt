@@ -4,7 +4,7 @@ master
 other
 
 function foo2(){
-    
+    456
 }
 
 

@@ -11,4 +11,5 @@ function foo2(){
 
 function foo(){
     aaa
+    test
 }
